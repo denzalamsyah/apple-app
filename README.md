@@ -14,9 +14,6 @@
 
   <h3 align="center">Apple Web</h3>
 
-   <div align="center">
-     Bangun proyek ini selangkah demi selangkah dengan tutorial terperinci di <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>
-    </div>
 </div>
 
 ## 📋 <a name="table">Daftar Isi</a>
@@ -31,10 +28,7 @@
 
 ## 🚨 Tutorial
 
-Repositori ini berisi kode yang sesuai dengan tutorial mendalam yang tersedia di saluran YouTube kami, JavaScript Mastery .
-<a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-Jika Anda lebih suka pembelajaran visual, ini adalah sumber yang tepat untuk Anda. Ikuti tutorial kami untuk mempelajari cara membuat proyek seperti ini langkah demi langkah dengan cara yang mudah dipahami oleh pemula!
+Jika Anda lebih suka pembelajaran visual, ini adalah sumber yang tepat untuk Anda. Ikuti tutorial ini untuk mempelajari cara membuat proyek seperti ini langkah demi langkah dengan cara yang mudah dipahami oleh pemula!
 
 <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
